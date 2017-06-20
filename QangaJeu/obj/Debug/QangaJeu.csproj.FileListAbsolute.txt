@@ -1,0 +1,33 @@
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\bin\Debug\QangaJeu.exe.config
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\bin\Debug\QangaJeu.exe
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\bin\Debug\QangaJeu.pdb
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\QangaJeu.csprojResolveAssemblyReference.cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\MainWindow.g.cs
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\App.g.cs
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\QangaJeu_MarkupCompile.cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\QangaJeu_MarkupCompile.lref
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\MainWindow.baml
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\QangaJeu.g.resources
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\QangaJeu.Properties.Resources.resources
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\QangaJeu.csproj.GenerateResource.Cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\QangaJeu.exe
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient - Copie\LauncherQangaClient\obj\Debug\QangaJeu.pdb
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Debug\QangaJeu.exe.config
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Debug\QangaJeu.exe
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Debug\QangaJeu.pdb
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\QangaJeu.csprojResolveAssemblyReference.cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\MainWindow.g.cs
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\App.g.cs
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\QangaJeu_MarkupCompile.cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\QangaJeu_MarkupCompile.lref
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\MainWindow.baml
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\QangaJeu.g.resources
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\QangaJeu.Properties.Resources.resources
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\QangaJeu.csproj.GenerateResource.Cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\QangaJeu.exe
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Debug\QangaJeu.pdb

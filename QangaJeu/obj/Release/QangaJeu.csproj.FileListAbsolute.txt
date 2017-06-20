@@ -1,0 +1,17 @@
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Release\QangaJeu.exe.config
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Release\QangaJeu.exe
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Release\QangaJeu.pdb
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Release\Newtonsoft.Json.dll
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\bin\Release\Newtonsoft.Json.xml
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\QangaJeu.csprojResolveAssemblyReference.cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\MainWindow.g.cs
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\App.g.cs
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\QangaJeu_MarkupCompile.cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\QangaJeu_MarkupCompile.lref
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\MainWindow.baml
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\QangaJeu.g.resources
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\QangaJeu.Properties.Resources.resources
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\QangaJeu.csproj.GenerateResource.Cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\QangaJeu.exe
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\QangaJeu\QangaJeu\obj\Release\QangaJeu.pdb

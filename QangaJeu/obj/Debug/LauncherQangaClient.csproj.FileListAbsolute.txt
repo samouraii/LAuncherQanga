@@ -1,0 +1,16 @@
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Debug\LauncherQangaClient.exe.config
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Debug\LauncherQangaClient.exe
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Debug\LauncherQangaClient.pdb
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\LauncherQangaClient.csprojResolveAssemblyReference.cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\MainWindow.g.cs
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\App.g.cs
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\LauncherQangaClient_MarkupCompile.cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\LauncherQangaClient_MarkupCompile.lref
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\MainWindow.baml
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\LauncherQangaClient.g.resources
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\LauncherQangaClient.Properties.Resources.resources
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\LauncherQangaClient.csproj.GenerateResource.Cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\LauncherQangaClient.exe
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Debug\LauncherQangaClient.pdb
